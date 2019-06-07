@@ -10,7 +10,7 @@
 
 	#wrapper {
 		background-color: #FFE4E1;
-		background-image: url("../../images/fundo_1.jpg"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/fundo_1.jpg");
+		background-image: url("../../images/fundo_2.jpg"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/fundo_1.jpg");
 		background-size: auto,								auto,														100% auto;
 		background-position: center,								center,														top center;
 		background-repeat: repeat,								no-repeat,													no-repeat;
